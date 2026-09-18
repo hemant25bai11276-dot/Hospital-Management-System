@@ -1,16 +1,10 @@
-# Hospital Management System
-
-## 📌 Project Title
-
-**Hospital Management System**
-
-## 📖 Overview
-
+### Hospital Management System
+##Overview
 The **Hospital Management System** is a Java-based application developed to manage basic hospital activities in a simple and organized way. The system helps in maintaining patient, doctor, appointment, and other hospital-related information.
 
 The main purpose of this project is to reduce manual work and provide an easy-to-use computerized system for hospital management.
 
-## ✨ Features
+## Features
 
 * Patient information management
 * Doctor information management
@@ -21,7 +15,7 @@ The main purpose of this project is to reduce manual work and provide an easy-to
 * Organized management of hospital data
 * Java-based application structure
 
-## 🛠️ Technologies / Tools Used
+## Technologies Used
 
 * **Java** – Programming language
 * **IntelliJ IDEA** – Development environment
@@ -29,7 +23,7 @@ The main purpose of this project is to reduce manual work and provide an easy-to
 * **Git** – Version control
 * **GitHub** – Source code repository
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Hospital-Management-System/
@@ -44,7 +38,7 @@ Hospital-Management-System/
 └── gitignore (1).txt
 ```
 
-## ⚙️ Installation & Running Steps
+## Installation & Running Steps
 
 ### 1. Clone the Repository
 
@@ -82,7 +76,7 @@ src/HospitalManagementSystem/
 
 Then click the **Run ▶ button** in IntelliJ IDEA.
 
-## 🧪 Instructions for Testing
+## Instructions for Testing
 
 The project can be tested by running the application and checking the available hospital management operations.
 
@@ -98,17 +92,17 @@ The project can be tested by running the application and checking the available 
 | 6         | Run different modules/features  | Corresponding output is displayed correctly  |
 
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective of this project is to develop a simple hospital management application using Java that demonstrates programming concepts such as classes, objects, methods, exception handling, and application management.
 
-## 👨‍💻 Author
+## Author
 
-**Hemant Saini**
+Hemant Saini
 
 GitHub:
 https://github.com/hemant25bai11276-dot
 
-## 📄 License
+## License
 
 This project is developed for educational/academic purposes.
