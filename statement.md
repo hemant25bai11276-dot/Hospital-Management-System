@@ -1,4 +1,4 @@
-# Hospital Management System
+### Hospital Management System
 
 ## 1. Problem Statement
 
@@ -10,16 +10,12 @@ The scope of this project is to provide a basic system for managing important ho
 
 ## 3. Target Users
 
-The main target users of the Hospital Management System are:
-
 * **Hospital Administrators** – Manage hospital information and system records.
 * **Receptionists** – Manage patient details and appointments.
 * **Doctors** – Access relevant patient and appointment information.
 * **Hospital Staff** – Maintain and update hospital-related records.
 
 ## 4. High-Level Features
-
-The major features of the system include:
 
 * Patient information management
 * Doctor information management
